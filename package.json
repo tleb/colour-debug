@@ -1,0 +1,21 @@
+{
+  "name": "color-debug",
+  "version": "1.0.0",
+  "description": "A simple colored debugger",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleb/color-debug.git"
+  },
+  "keywords": [
+    "color",
+    "debug",
+    "debugging"
+  ],
+  "author": "tleb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tleb/color-debug/issues"
+  },
+  "homepage": "https://github.com/tleb/color-debug"
+}

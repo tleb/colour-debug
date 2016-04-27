@@ -1,25 +1,25 @@
-# color-debug
+# colour-debug
 
 [![npm version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 
-[npm-url]: https://www.npmjs.com/package/color-debug
-[npm-image]: https://img.shields.io/npm/v/color-debug.svg
+[npm-url]: https://www.npmjs.com/package/colour-debug
+[npm-image]: https://img.shields.io/npm/v/colour-debug.svg
 [license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/npm/l/color-debug.svg
+[license-image]: https://img.shields.io/npm/l/colour-debug.svg
 
-> A simple colored debugger
+> A simple coloured debugger
 
 ## Installation
 
 ```shell
-npm install --save color-debug
+npm install --save colour-debug
 ```
 
 ## Usage
 
 ```js
-var d = require('color-debug')
+var d = require('colour-debug')
 
 d({
     debug: 'anything',

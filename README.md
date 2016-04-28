@@ -25,6 +25,10 @@ d({
     debug: 'anything',
     you: ['like']
 })
+
+// true to show the object's non-enumerable and symbol properties
+// if not set to true, then equals false
+d({ foo: 'bar' }, true)
 ```
 
 ## Author

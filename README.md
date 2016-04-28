@@ -29,6 +29,10 @@ d({
 // true to show the object's non-enumerable and symbol properties
 // if not set to true, then equals false
 d({ foo: 'bar' }, true)
+
+// specify the depth to go into
+// if not an integer, unlimited
+d({ foo: 'bar' }, false, 3)
 ```
 
 ## Author
